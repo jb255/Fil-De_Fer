@@ -14,7 +14,7 @@ Used with mlx on X11 version.
 
 -Basic controls:
 
-&larr; 	&uarr; 	&rarr; 	&darr; , to Move.
+&larr; 	&uarr; 	&rarr; 	&darr; , to Move. <br />
 '+' , '-' , to use Zoom.
 
 You also need the "minilibx" to be installed on your device.
