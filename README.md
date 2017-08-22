@@ -8,14 +8,17 @@ Used with mlx on X11 version.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
-	$>  make
-	$>  usage: ./fdf map_to_test.fdf
+	$>  clang -Wall -Wextra -Werror $(sdl2-config --cflags --libs) main.c -o main && ./main
 
 ## Controls
 
 -Basic controls:
 
-'*' , '/' , to up Z-Values.
+&larr; 	&#x2190; 	← 	\leftarrow 	← {\displaystyle \leftarrow } \leftarrow
+&uarr; 	&#x2191; 	↑ 	\uparrow 	↑ {\displaystyle \uparrow } \uparrow
+&rarr; 	&#x2192; 	→ 	\rightarrow 	→ {\displaystyle \rightarrow } \rightarrow
+&darr; 	&#x2193; 	↓ 	\downarrow 	↓ {\displaystyle \downarrow } \downarrow 
+'' , '' , to Move.
 '+' , '-' , to use Zoom.
 
 You also need the "minilibx" to be installed on your device.
