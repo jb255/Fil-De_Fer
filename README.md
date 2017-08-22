@@ -14,11 +14,7 @@ Used with mlx on X11 version.
 
 -Basic controls:
 
-&larr; 	&#x2190; 	← 	\leftarrow 	← {\displaystyle \leftarrow } \leftarrow
-&uarr; 	&#x2191; 	↑ 	\uparrow 	↑ {\displaystyle \uparrow } \uparrow
-&rarr; 	&#x2192; 	→ 	\rightarrow 	→ {\displaystyle \rightarrow } \rightarrow
-&darr; 	&#x2193; 	↓ 	\downarrow 	↓ {\displaystyle \downarrow } \downarrow 
-'' , '' , to Move.
+&larr; 	&uarr; 	&rarr; 	&darr; , to Move.
 '+' , '-' , to use Zoom.
 
 You also need the "minilibx" to be installed on your device.
