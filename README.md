@@ -4,6 +4,7 @@
 
 This is a project where you have to display a 2d map file:
 It will display it with an isometric view.
+Project coding in c and compiling in web assembly.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
