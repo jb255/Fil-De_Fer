@@ -17,6 +17,5 @@ Used with mlx on X11 version.
 &larr; 	&uarr; 	&rarr; 	&darr; , to Move. <br />
 '+' , '-' , to use Zoom.
 
-You also need the "minilibx" to be installed on your device.
 
 </tbody>
