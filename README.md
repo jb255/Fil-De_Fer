@@ -4,7 +4,6 @@
 
 This is a project where you have to display a 2d map file:
 It will display it with an isometric view.
-Used with mlx on X11 version.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
