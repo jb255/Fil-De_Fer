@@ -16,5 +16,6 @@ It will display it with an isometric view.
 &larr; 	&uarr; 	&rarr; 	&darr; , to Move. <br />
 '+' , '-' , to use Zoom.
 
+https://jb255.github.io/Fil-De_Fer/main.html
 
 </tbody>
