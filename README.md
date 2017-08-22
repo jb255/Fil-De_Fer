@@ -1,6 +1,6 @@
 # FDF
 
-<img align="right"  src="http://i.imgur.com/C27QA4E.png" width="45%" />
+<img src="http://i.imgur.com/C27QA4E.png" width="45%" />
 
 This is a project where you have to display a 2d map file:
 It will display it with an isometric view.
